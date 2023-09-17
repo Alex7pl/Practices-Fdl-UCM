@@ -1,0 +1,11 @@
+ // CÃ³digo para realizar una tirada (aleatoriamente) y mostrarla
+    /*tirada = rand() % 6 + 1;
+    cout << "Sale un " << tirada << endl;*/
+
+
+
+
+
+
+
+Nota : Implementar el te comes al jugador para todos los colores menos el amarillo
