@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Sep 27 08:52:55 2022
+# Process ID: 2172
+# Current directory: C:/hlocal/practica1_avanzada/practica1_avanzada.runs/synth_1
+# Command line: vivado.exe -log contador.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source contador.tcl
+# Log file: C:/hlocal/practica1_avanzada/practica1_avanzada.runs/synth_1/contador.vds
+# Journal file: C:/hlocal/practica1_avanzada/practica1_avanzada.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source contador.tcl -notrace
