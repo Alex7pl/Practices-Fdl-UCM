@@ -1,0 +1,20 @@
+; Memory initialization file for Single Port Block Memory in Lab. 5
+; Maquina tragaperras
+;
+; This .COE file specifies initialization values for a block 
+; memory of depth=10, and width=4. In this case, values are 
+; specified in hexadecimal format.
+
+memory_initialization_radix=16;
+memory_initialization_vector=
+5,
+4,
+0,
+1,
+7,
+6,
+2,
+9,
+3,
+8;
+
